@@ -62,7 +62,7 @@ Wenn Sie gerade erst anfangen, Open-Source-Arbeit zu leisten, kann der Prozess e
 
 Keine Sorge! Es gibt viele Möglichkeiten, zu einem Open-Source-Projekt beizutragen. Die folgenden paar Tipps helfen Ihnen, dabei gute Erfahrungen zu machen.
 
-### Sie müssen keinen Code beisteuern
+### Sie brauchen keine Programmierkenntnisse
 
 Ein weit verbreiteter Irrtum! Aber in Wirklichkeit sind es oft andere Projektaspekte, die am [meisten Unterstützung benötigen](https://github.com/blog/2195-the-shape-of-open-source). Sie tun dem Projekt einen _großen_ Gefallen, indem Sie anbieten, bei nicht-Code-Aspekten mitzuwirken!
 
@@ -231,7 +231,6 @@ Weiterhin, können Sie auf folgenden Seiten neue Projekte zum Beitragen entdecke
 * [CodeTriage](https://www.codetriage.com/)
 * [24 Pull Requests](https://24pullrequests.com/)
 * [Up For Grabs](https://up-for-grabs.net/)
-* [Contributor-ninja](https://contributor.ninja)
 * [First Contributions](https://firstcontributions.github.io)
 * [SourceSort](https://web.archive.org/web/20201111233803/https://www.sourcesort.com/)
 
